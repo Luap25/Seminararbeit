@@ -1,9 +1,11 @@
-Maus
-Flipper
-Drohne
-Fahradsicherung
-Hilfe für behinderte
-Rasen bewässerung
-Inteligenter Postkasten
-Drohne erfassungsystem
-Konsole
+Controller:
+-Neigungsschalter
+-Joystick
+Feuermelder:
+-Gas sensor
+-selbstgebaut
+-Flammensensor
+Drohne erfassungsystem:
+-Camera
+-Mikrophone
+-night visone camera
