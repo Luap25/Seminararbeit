@@ -1,0 +1,19 @@
+Pixy:
+--
+speed: 16,7 milisekunden (Hersteller Angabe)
+
+Duck_317_40000:
+mAP: 76.50%
+speed:
+
+Duck_317_40000_quant: 
+mAP: 47.13%
+speed:
+
+Duck_650_40000:
+mAP: 85.27%
+speed:
+
+Duck_650_40000_quant:
+mAP: 56.64%
+speed:
