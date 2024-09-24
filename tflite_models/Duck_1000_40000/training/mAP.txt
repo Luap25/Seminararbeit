@@ -1,0 +1,38 @@
+Calculating mAP at 0.50 IoU threshold...
+99.65% = Duck AP
+mAP = 99.65%
+Calculating mAP at 0.55 IoU threshold...
+99.65% = Duck AP
+mAP = 99.65%
+Calculating mAP at 0.60 IoU threshold...
+99.65% = Duck AP
+mAP = 99.65%
+Calculating mAP at 0.65 IoU threshold...
+99.65% = Duck AP
+mAP = 99.65%
+Calculating mAP at 0.70 IoU threshold...
+97.68% = Duck AP
+mAP = 97.68%
+Calculating mAP at 0.75 IoU threshold...
+95.80% = Duck AP
+mAP = 95.80%
+Calculating mAP at 0.80 IoU threshold...
+91.81% = Duck AP
+mAP = 91.81%
+Calculating mAP at 0.85 IoU threshold...
+63.04% = Duck AP
+mAP = 63.04%
+Calculating mAP at 0.90 IoU threshold...
+38.71% = Duck AP
+mAP = 38.71%
+Calculating mAP at 0.95 IoU threshold...
+3.23% = Duck AP
+mAP = 3.23%
+
+***mAP Results***
+
+Class           Average mAP @ 0.5:0.95
+---------------------------------------
+Duck            78.89%
+
+Overall         78.89%

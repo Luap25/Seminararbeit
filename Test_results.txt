@@ -3,17 +3,25 @@ Pixy:
 speed: 16.7 ms (Hersteller Angabe)
 
 Duck_317_40000:
-mAP: 76.50%
-speed: 10.37 ms
+mAP: 53.20%
+speed: 318.17 ms
 
 Duck_317_40000_quant: 
-mAP: 47.13%
-speed: 10.33 ms ms
+mAP: 30.11%
+speed: 234.53 ms ms
 
 Duck_650_40000:
-mAP: 85.27%
-speed: 10.44 ms
+mAP: 65.21%
+speed: 399.14 ms
 
 Duck_650_40000_quant:
-mAP: 56.64%
-speed: 10.50 ms
+mAP: 48.42%
+speed: 327.36 ms
+
+Duck_1000_40000:
+mAP: 78.89%
+speed: 399.21 ms
+
+Duck_1000_40000_quant:
+mAP: 60.05%
+speed: 328.72 ms
